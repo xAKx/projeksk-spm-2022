@@ -1,0 +1,11 @@
+body {
+	font-family: sans-serif;
+
+	background-image: url("back3.jpg");
+
+	height: 100%;
+
+	background-position: center;
+	background-repeat: yes-repeat;
+	background-size: cover;
+}
